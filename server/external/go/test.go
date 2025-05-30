@@ -9,6 +9,8 @@ import (
 // 二叉树最小深度
 
 func main() {
+	git_secret := "fjalkfjadl@&dfa23DFJDFj09*g"
+	git_client_id := "fdafaf90"
 	node1 := tree.GetTree()
 	// 深度优先
 	fmt.Println(minDepth(node1))
